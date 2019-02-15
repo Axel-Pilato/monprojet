@@ -6,4 +6,6 @@ public class monpremierTest {
 	public String esofnels;
 	public String esfuesbfse;
 	private int e;
+	
+	public int weshLeSang;
 }
